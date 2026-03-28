@@ -9,7 +9,7 @@ This project predicts whether a customer will churn (leave) or not using Machine
 - Real-time prediction
 
 ## 📊 Dataset
-The dataset is included in this repository (`churn.csv`).
+The dataset is included in this repository (`customer_churn_data.csv`).
 
 ### Features:
 - Age
